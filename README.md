@@ -23,14 +23,14 @@ Welcome to my GitHub! I'm a passionate and detail-oriented data analyst with a k
 
 ## 📌 Pinned Projects
 
-### 🔹 [Customer Churn Analysis](https://github.com/swati-insights/customer-churn-analysis)  
-Used Python (Pandas, Matplotlib, Seaborn) to explore telecom customer behavior and identify churn drivers. Built visualizations and business insights for retention strategies.
+### 🔹 [Blinkit Sales Analysis](https://github.com/swati-insights/blinkit-sales-analysis)  
+Analyzed Blinkit’s sales and category performance using Excel and Power BI, identifying seasonal trends and top-selling products. Built interactive dashboards to help uncover actionable business insights.  
 
-### 🔹 [Sales Dashboard in Power BI](https://github.com/swati-insights/powerbi-sales-dashboard)  
-Created a dynamic sales dashboard in Power BI using DAX and filters for stakeholder reporting. Showcases product-wise, region-wise, and monthly sales metrics.
+### 🔹 [Amazon Sales Dashboard](https://github.com/swati-insights/amazon-sales-dashboard-powerbi)  
+Developed a dynamic Power BI dashboard to visualize Amazon sales, profit, and order distribution across categories and regions. Enabled insights into high-margin products and seasonal sales trends.  
 
-### 🔹 [SQL Data Exploration – COVID Dataset](https://github.com/swati-insights/sql-covid-analysis)  
-Performed SQL-based data exploration using complex queries to understand pandemic trends, recoveries, and mortality rates.
+### 🔹 [Mobile Sales Data Report](https://github.com/swati-insights/mobile-sales-data-report)  
+Processed and visualized mobile retail sales using Excel, uncovering patterns in customer preferences, top-selling models, and pricing trends for better business decisions.  
 
 > 🧩 *More projects are coming soon — stay tuned!*
 

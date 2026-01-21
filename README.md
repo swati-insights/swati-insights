@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swati Shalu
+# 👋 Hi, I'm Swati Singh
 
 🎯 **Data Analyst | SQL • Python • Power BI • Excel**
 

@@ -28,27 +28,6 @@ Welcome to my GitHub! I'm a passionate and detail-oriented Data Analyst who love
 
 ## 📌 Featured Projects
 
-### 🔹 Blinkit Sales Analysis  
-- Analyzed sales and category performance using **Excel & Power BI**  
-- Identified seasonal trends and top-selling products  
-- Built interactive dashboards for business insights  
-
----
-
-### 🔹 Amazon Sales Dashboard  
-- Created a **dynamic Power BI dashboard**  
-- Visualized sales, profit, and order distribution  
-- Highlighted high-margin products and regional performance  
-
----
-
-### 🔹 Mobile Sales Data Report  
-- Processed retail sales data using **Excel**  
-- Analyzed customer preferences and pricing trends  
-- Delivered insights for better product decisions  
-
----
-
 ### 🔹 Rays Edutech Pvt Ltd – Admission & Employee Data Analysis  
 - Worked on **student admission and employee datasets**  
 - Cleaned and structured data using **SQL & Excel**  
@@ -66,26 +45,40 @@ Welcome to my GitHub! I'm a passionate and detail-oriented Data Analyst who love
   - Public feedback trends  
   - Service performance  
   - Regional insights  
-- Delivered reports for **data-driven governance decisions**  
+- Delivered reports for **data-driven governance decisions**
+
+---
+  
+### 🔹 Blinkit Sales Analysis  
+- Analyzed sales and category performance using **Excel & Power BI**  
+- Identified seasonal trends and top-selling products  
+- Built interactive dashboards for business insights  
+
+---
+
+### 🔹 Amazon Sales Dashboard  
+- Created a **dynamic Power BI dashboard**  
+- Visualized sales, profit, and order distribution  
+- Highlighted high-margin products and regional performance  
+
+---
+
+### 🔹 Mobile Sales Data Report  
+- Processed retail sales data using **Excel**  
+- Analyzed customer preferences and pricing trends  
+- Delivered insights for better product decisions
 
 ---
 
 ## 🧠 Currently Learning
 
 - Advanced Power BI (**DAX & custom visuals**)  
-- Python for Automation (**APIs & scripting**)  
 - Data Engineering Basics (**ETL & pipelines**)  
-
 ---
-
 ## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/swati-shalu)  
-- 📧 swatishalu2@gmail.com  
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/swati.shalu)  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/swati-singh-insights) 
+- 📧 shaluswati109@gmail.com   
 ---
-
 ## ✨ Quote
 
 > _“Without data, you're just another person with an opinion.” – W. Edwards Deming_
